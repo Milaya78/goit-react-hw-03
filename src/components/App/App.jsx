@@ -1,5 +1,5 @@
 import css from "./App.module.css";
-import initialContacts from "../contacts.json";
+import initialContacts from "../../contacts.json";
 import { useState, useEffect } from "react";
 import ContactForm from "../ContactForm/ContactForm";
 import SearchBox from "../SearchBox/SearchBox";
